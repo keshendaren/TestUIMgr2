@@ -1,0 +1,15 @@
+/Library
+/obj
+/Logs
+*.csproj*
+*.sln
+.vscode
+Gen
+Gen.meta
+Temp
+*luaIde*
+*.vs*
+.idea
+*.idea
+OldUI
+.gradle
